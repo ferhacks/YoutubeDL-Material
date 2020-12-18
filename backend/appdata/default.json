@@ -1,7 +1,7 @@
 {
   "YoutubeDLMaterial": {
     "Host": {
-      "url": "http://example.com",
+      "url": "https://ferhackstest.herokuapp.com",
       "port": "17442"
     },
     "Downloader": {
@@ -25,8 +25,8 @@
     "API": {
       "use_API_key": false,
       "API_key": "",
-      "use_youtube_API": false,
-      "youtube_API_key": "",
+      "use_youtube_API": true,
+      "youtube_API_key": "AIzaSyBcIUcxFrJt9I71yMW70XykBHs7sh8VJyE",
       "use_twitch_API": false,
       "twitch_API_key": "",
       "twitch_auto_download_chat": false
